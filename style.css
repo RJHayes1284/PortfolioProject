@@ -34,14 +34,14 @@ p {
   color: #444444;
   font: times, serif;
   font-size: 16px;
-  padding: 300px;
-  margin: 10px;
+  padding: 5px;
+  margin: 500px;
 }
 
 ol{
   text-align: center;
-  margin: 10px;
-  padding: 300px;
+  margin: 500px;
+  padding: 5px;
 }
 
 .align-center {
