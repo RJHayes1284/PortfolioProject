@@ -1,4 +1,5 @@
 header {
+  color: #444444;
   text-align: center;
   height: 425px;
   padding-left: 200px;
@@ -9,6 +10,7 @@ header {
 }
 
 footer {
+  color: #444444;
   text-align: center;
   height: 38px;
   padding-left: 200px;
@@ -48,6 +50,17 @@ p {
 }
 
 ol {
+  color: #444444;
+  text-align: center;
+  margin: 10px;
+  padding-left: 200px;
+  padding-right: 200px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+ul {
+  color: #444444;
   text-align: center;
   margin: 10px;
   padding-left: 200px;
