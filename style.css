@@ -38,6 +38,11 @@ p {
   margin: 100px;
 }
 
+ol{
+  text-align: center;
+  margin: 100px;
+}
+
 .align-center {
   text-align: center;
   padding: 25px;
