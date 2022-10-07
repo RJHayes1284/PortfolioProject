@@ -1,14 +1,16 @@
 header {
   text-align: center;
   height: 425px;
-  padding: 10px;
+  padding-left: 200px;
+  padding-right: 200px;
   margin: 10px;
 }
 
 footer {
   text-align: center;
   height: 38px;
-  padding: 10px;
+  padding-left: 200px;
+  padding-right: 200px;
   margin: 10px;
 }
 
@@ -34,20 +36,23 @@ p {
   color: #444444;
   font: times, serif;
   font-size: 16px;
-  padding: 5px;
-  margin: 500px;
+  padding-left: 200px;
+  padding-right: 200px;
+  margin: 10px;
 }
 
-ol{
+ol {
   text-align: center;
-  margin: 500px;
-  padding: 5px;
+  margin: 10px;
+  padding-left: 200px;
+  padding-right: 200px;
 }
 
 .align-center {
   text-align: center;
-  padding: 25px;
-  margin: 25px;
+  padding-left: 200px;
+  padding-right: 200px;
+  margin: 10px;
 }
 
 .align-right {
@@ -64,6 +69,7 @@ ol{
 .image {
   width: 250px;
   border-radius: 50%;
-  padding: 10px;
+  padding-left: 200px;
+  padding-right: 200px;
   margin: 10px;
 }
